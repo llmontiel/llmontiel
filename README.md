@@ -4,6 +4,8 @@ Senior Data Analyst integrating AI/ML into supply chain to cut stockouts, sharpe
 
 I design data products that change operational outcomes — not just dashboards. That means demand forecasts that measurably beat the baseline, reporting pipelines that compress hours of manual work into a single command, and AI tools that let non-technical teammates get answers from data in plain English. I work where a better model shows up directly in service levels and working capital: demand planning, in-stock performance, and inventory for retail and grocery.
 
+Portfolio: [llmontiel.github.io](https://llmontiel.github.io) · LinkedIn: [linkedin.com/in/liliana-montiel](https://linkedin.com/in/liliana-montiel) · Email: llmontiel@outlook.com
+
 ---
 
 ### What I work with
@@ -28,12 +30,6 @@ I design data products that change operational outcomes — not just dashboards.
 | [Supply Chain KPI Dashboard](https://github.com/llmontiel/supply-chain-dashboard) | Interactive in-stock, demand & revenue dashboard | Streamlit + Plotly, live filters, operational KPIs (in-stock, demand fill) |
 
 > Each project runs on fully synthetic data and is reproducible end-to-end.
-
----
-
-### Connect
-
-- LinkedIn: [linkedin.com/in/liliana-montiel](https://linkedin.com/in/liliana-montiel)
 
 <!--
 Tip: this file lives in a special repo named `llmontiel/llmontiel`.
