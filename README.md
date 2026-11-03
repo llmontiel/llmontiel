@@ -1,4 +1,4 @@
-# Liliana Montiel
+# Hi, I'm Liliana 👋
 
 **Senior Data Analyst** integrating AI/ML into supply chain to cut stockouts,
 sharpen forecasts, and automate reporting.
@@ -13,7 +13,8 @@ AI tools that let non-technical teammates ask data questions in plain English.
 
 - **Languages:** Python, SQL
 - **Data / ML:** pandas, NumPy, scikit-learn, LightGBM, time-series forecasting
-- **Analytics & reporting:** Excel automation (xlsxwriter), matplotlib, dashboards
+- **Analytics & reporting:** Excel automation (xlsxwriter), matplotlib, dashboards (Streamlit/Plotly)
+- **Data modeling:** star schemas, window functions, dimensional warehouses
 - **AI:** LLM-powered analytics tooling, prompt design, safe "LLM-plans-code-executes" patterns
 - **Domain:** supply chain, demand planning, in-stock / inventory, retail & grocery
 
@@ -26,6 +27,8 @@ AI tools that let non-technical teammates ask data questions in plain English.
 | **[Demand Forecasting Engine](https://github.com/llmontiel/demand-forecasting-engine)** | SKU-level demand forecasting with backtesting | Cuts forecast error ~45% vs. a seasonal-naive baseline (WAPE 15.8% vs 28.6%) |
 | **[Automated Reporting Pipeline](https://github.com/llmontiel/automated-reporting-pipeline)** | Raw CSV → polished multi-sheet Excel report with charts, in one command | Cleans + aggregates 15K+ transactions, outputs a formatted workbook |
 | **[LLM Analytics Assistant](https://github.com/llmontiel/llm-analytics-assistant)** | Ask a sales dataset questions in plain English | Safe "LLM plans, code executes" design — answers are real pandas aggregations, not hallucinations |
+| **[SQL Retail Analytics](https://github.com/llmontiel/sql-retail-analytics)** | Star-schema warehouse + analytical SQL queries | Window functions, CTEs, ranking & period-over-period growth on a dimensional model |
+| **[Supply Chain KPI Dashboard](https://github.com/llmontiel/supply-chain-dashboard)** | Interactive in-stock, demand & revenue dashboard | Streamlit + Plotly, live filters, operational KPIs (in-stock, demand fill) |
 
 > Each project runs on fully synthetic data and is reproducible end-to-end.
 
