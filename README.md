@@ -1,4 +1,4 @@
-# Hi, I'm Liliana 
+# Liliana Montiel
 
 **Senior Data Analyst** integrating AI/ML into supply chain to cut stockouts,
 sharpen forecasts, and automate reporting.
