@@ -1,4 +1,4 @@
-# Hi, I'm Liliana 👋
+# Hi, I'm Liliana 
 
 **Senior Data Analyst** integrating AI/ML into supply chain to cut stockouts,
 sharpen forecasts, and automate reporting.
